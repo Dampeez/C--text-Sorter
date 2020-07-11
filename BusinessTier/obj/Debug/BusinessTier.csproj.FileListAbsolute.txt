@@ -1,0 +1,16 @@
+C:\Users\damia\Desktop\moe test\3tier\BusinessTier\bin\Debug\airbnb_listings_cpt.input
+C:\Users\damia\Desktop\moe test\3tier\BusinessTier\bin\Debug\BusinessTier.dll
+C:\Users\damia\Desktop\moe test\3tier\BusinessTier\bin\Debug\BusinessTier.pdb
+C:\Users\damia\Desktop\moe test\3tier\BusinessTier\bin\Debug\DataTier.dll
+C:\Users\damia\Desktop\moe test\3tier\BusinessTier\bin\Debug\DataTier.pdb
+C:\Users\damia\Desktop\moe test\3tier\BusinessTier\obj\Debug\BusinessTier.csprojResolveAssemblyReference.cache
+C:\Users\damia\Desktop\moe test\3tier\BusinessTier\obj\Debug\BusinessTier.dll
+C:\Users\damia\Desktop\moe test\3tier\BusinessTier\obj\Debug\BusinessTier.pdb
+C:\Users\damia\Desktop\moe test\201571550_GradedExcersise2\BusinessTier\bin\Debug\airbnb_listings_cpt.input
+C:\Users\damia\Desktop\moe test\201571550_GradedExcersise2\BusinessTier\bin\Debug\BusinessTier.dll
+C:\Users\damia\Desktop\moe test\201571550_GradedExcersise2\BusinessTier\bin\Debug\BusinessTier.pdb
+C:\Users\damia\Desktop\moe test\201571550_GradedExcersise2\BusinessTier\bin\Debug\DataTier.dll
+C:\Users\damia\Desktop\moe test\201571550_GradedExcersise2\BusinessTier\bin\Debug\DataTier.pdb
+C:\Users\damia\Desktop\moe test\201571550_GradedExcersise2\BusinessTier\obj\Debug\BusinessTier.csprojResolveAssemblyReference.cache
+C:\Users\damia\Desktop\moe test\201571550_GradedExcersise2\BusinessTier\obj\Debug\BusinessTier.dll
+C:\Users\damia\Desktop\moe test\201571550_GradedExcersise2\BusinessTier\obj\Debug\BusinessTier.pdb

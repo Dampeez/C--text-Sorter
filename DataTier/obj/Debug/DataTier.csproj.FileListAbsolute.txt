@@ -1,0 +1,6 @@
+C:\Users\damia\Desktop\moe test\3tier\DataTier\bin\Debug\airbnb_listings_cpt.input
+C:\Users\damia\Desktop\moe test\3tier\DataTier\bin\Debug\DataTier.dll
+C:\Users\damia\Desktop\moe test\3tier\DataTier\bin\Debug\DataTier.pdb
+C:\Users\damia\Desktop\moe test\3tier\DataTier\obj\Debug\DataTier.dll
+C:\Users\damia\Desktop\moe test\3tier\DataTier\obj\Debug\DataTier.pdb
+C:\Users\damia\Desktop\moe test\3tier\DataTier\obj\Debug\DataTier.csprojResolveAssemblyReference.cache
